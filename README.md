@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Welcome</title>
+	<title>Khantushig</title>
 </head>
 <body>
 	<h1>yokosoo watashino boyo boyo boci boci muoshu moshu mooosh<h1>
